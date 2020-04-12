@@ -1,0 +1,4 @@
+venv/
+project/__pycache__
+project/static/js/main1.js
+project/templates/index1.html
